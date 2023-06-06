@@ -16,3 +16,11 @@ The Face Recognition Attendance System is a Python-based project that utilizes f
 - Use the provided user interface to perform various tasks such as enrolling new faces, updating the face database, and viewing attendance records.
 - The system will continuously monitor the camera or specified image/video source for faces. When a face is detected, it will compare it with known faces in the database and mark attendance if a match is found.
 - Attendance records will be logged in the specified file, including the date, time, and the name or identifier of the individual.
+
+## Future Scope
+
+-As this code is developed, new features will be added, The main one being authenticity in face recognition. This application will bw connected with an OxyMeter
+made with IoT technology, which will authenticate the user being present in real time by reading their fingerprint and displaying their oxygen level.
+
+
+This project is done and is in use in **IoT lab. KIIT**
