@@ -8,10 +8,10 @@ The Face Recognition Attendance System is a Python-based project that utilizes f
 - Real-time processing: The system can perform face recognition in real-time, making it suitable for live attendance management.
 - User-friendly interface: It provides a simple and intuitive interface to interact with the system, allowing users to easily enroll new faces, update the database, and view attendance records.
 
-##Technology used
+## Technology used
 -The main technology used in the project is computer vision, using openCV. The code connects the data of all users through a backend api, saves it in a folder and everytime a user in the database gives their attendance, it is updated in the backend api.
 
-##Usage
+## Usage
 -Launch the application by running main.py.
 -Use the provided user interface to perform various tasks such as enrolling new faces, updating the face database, and viewing attendance records.
 -The system will continuously monitor the camera or specified image/video source for faces. When a face is detected, it will compare it with known faces in the database and mark attendance if a match is found.
