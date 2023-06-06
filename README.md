@@ -16,7 +16,8 @@ The Face Recognition Attendance System is a Python-based project that utilizes f
 - Use the provided user interface to perform various tasks such as enrolling new faces, updating the face database, and viewing attendance records.
 - The system will continuously monitor the camera or specified image/video source for faces. When a face is detected, it will compare it with known faces in the database and mark attendance if a match is found.
 - Attendance records will be logged in the specified file, including the date, time, and the name or identifier of the individual.
-- ![working](att.png)
+- ![att](https://github.com/swatimishra02/face-recognition-attendance-system/assets/92112091/827f3801-bf4e-4654-817c-14d06848a96e)
+
 
 ## Future Scope
 
